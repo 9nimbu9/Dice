@@ -1,0 +1,42 @@
+img
+{
+    width: 80%;
+    margin-bottom: 20%;
+}
+body
+{
+    text-align: center;
+    margin: 0;
+    background-color: #393E46;
+    color: #4ECCA3;
+}
+h1
+{
+    font-family: 'Lobster', cursive;
+}
+h5
+{
+    font-family: 'Indie Flower', cursive; 
+    margin-bottom: 50px;  
+}
+.winner
+{
+    margin: 5% 0%;
+    font-size: 8rem;
+    display: inline-block;
+}
+.player
+{
+    padding: 5%;
+    margin: 0;
+    font-size: 2rem;
+    display: inline-block;  
+}
+.bt
+{
+    display: inline-block;
+}
+.grid
+{
+    display: inline-block;
+}
